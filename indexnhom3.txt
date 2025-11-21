@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nhóm 3- 12 Anh</title> 
+
+    <style>
+        body {
+            font-family: "Segoe UI", Arial, sans-serif;
+            background: #eef3f8;
+            margin: 0;
+        }
+
+        header {
+            background: linear-gradient(90deg, #0066ff, #00bbff);
+            color: white;
+            text-align: center;
+            padding: 40px 10px;
+            box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15
